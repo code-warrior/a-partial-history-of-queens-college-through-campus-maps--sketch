@@ -10,7 +10,7 @@
 
 ## Before You Start
 
-1. Download and install the typefaces IBM Plex [https://ibm.github.io/type/](https://ibm.github.io/type/) and Font Awesome 5 [https://fontawesome.com/how-to-use/use-on-desktop](https://fontawesome.com/how-to-use/use-on-desktop). Otherwise, when you launch `desktop.sketch`, Sketch will generate a “missing fonts” error in the upper right hand corner of the window.
+1. Download and install the typefaces IBM Plex Sans [https://ibm.github.io/type/](https://ibm.github.io/type/) and Font Awesome 5, the free regular version [https://fontawesome.com/how-to-use/use-on-desktop](https://fontawesome.com/how-to-use/use-on-desktop). Otherwise, when you launch `desktop.sketch`, Sketch will generate a “missing fonts” error in the upper right hand corner of the window.
 
 ## Rules
 
